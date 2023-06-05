@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208057839652",
+    "project_id": "unisync-e609d",
+    "storage_bucket": "unisync-e609d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208057839652:android:70c37f655fe4b8433f68b1",
+        "android_client_info": {
+          "package_name": "com.sakuno.unisync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208057839652-lkgnmnjj5n0tee5qvjc70rht53t0pk30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYmZWPL8ohg6NYX_Xy7kjxf8C35joTcbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208057839652-lkgnmnjj5n0tee5qvjc70rht53t0pk30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

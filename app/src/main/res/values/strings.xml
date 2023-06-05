@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Unisync</string>
+    <string name="entersub">Subject... </string>
+    <string name="insert_details">Insert Details</string>
+    <string name="entertask">Task... </string>
+    <string name="enterendate">EndDate...</string>
+    <string name="add">add</string>
+    <string name="show">show</string>
+    <string name="subject_Name" >Subject Name -> </string>
+    <string name="Date" >Date -> </string>
+    <string name="Todo">Task -> </string>
+</resources>
